@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T16:15:24.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SuYpDDOHUNIo30oqotWv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T16:19:53.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UgJZ73I3Sw_o7k4XnZjO" version="20.5.3" type="github">
   <diagram id="jFzovRWqImT3-JJkCrsG" name="Trang-1">
     <mxGraphModel dx="2831" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -433,7 +433,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vxUnWns1kR7Fufr7Pm1E-74" value="Lấy dữ liệu từ ECM, File storge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="vxUnWns1kR7Fufr7Pm1E-74" value="Dữ liệu ECM, File storge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="140" y="3500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vxUnWns1kR7Fufr7Pm1E-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vxUnWns1kR7Fufr7Pm1E-77" target="vxUnWns1kR7Fufr7Pm1E-88" edge="1">
